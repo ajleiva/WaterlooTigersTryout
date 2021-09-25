@@ -1,2 +1,1 @@
-# This is the link to the web page:
-ajleiva.github.io/WaterlooTigersTryout
+# Link to Web Page: ajleiva.github.io/WaterlooTigersTryout
